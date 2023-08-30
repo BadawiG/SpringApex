@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:oracle:thin:@//localhost:1521/xe
+    url: jdbc:oracle:thin:@//178.33.108.211:1521/orcl
     username: apex_s
     password: apex_s
     driver-class-name: oracle.jdbc.OracleDriver
