@@ -89,6 +89,7 @@
 			<artifactId>orai18n</artifactId>
 			<version>19.3.0.0</version>
 		</dependency>
+ 
 	</dependencies>
 
 	<build>
