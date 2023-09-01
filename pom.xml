@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.alibou</groupId>
 	<artifactId>security</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>apex-Spring</version>
 	<name>security</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
@@ -103,10 +103,10 @@
 							<groupId>org.projectlombok</groupId>
 							<artifactId>lombok</artifactId>
 						</exclude>
-					</excludes>
+					</excludes> 
 				</configuration>
 			</plugin>
 		</plugins>
-	</build>
+	</build>	
 
 </project>
